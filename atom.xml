@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-12-09T12:47:04.461Z</updated>
+  <updated>2025-12-09T12:51:50.180Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,13 @@
     <link href="http://example.com/2025/12/09/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
     <id>http://example.com/2025/12/09/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</id>
     <published>2025-12-09T12:09:33.000Z</published>
-    <updated>2025-12-09T12:47:04.461Z</updated>
+    <updated>2025-12-09T12:51:50.180Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/suanfa.jpg=200x&quot; alt=&quot;算法&quot;&gt;&lt;/p&gt;
-&lt;p&gt;算法是编程的核心灵魂，不仅能解决实际问题，更能锻炼逻辑思维。对于新手而言，算法学习无需盲目刷题，掌握科学方法才能高效入门。&lt;/p&gt;
-&lt;p&gt;入门阶段，先夯实基础数据结构。数组、链</summary>
+    <summary type="html">&lt;p&gt;算法是编程的核心灵魂，不仅能解决实际问题，更能锻炼逻辑思维。对于新手而言，算法学习无需盲目刷题，掌握科学方法才能高效入门。&lt;/p&gt;
+&lt;p&gt;入门阶段，先夯实基础数据结构。数组、链表、栈、队列是算法的基石，理解它们的存储原理和操作复杂度，才能灵活运用。推荐从简单经典算法入手，比</summary>
       
     
     
