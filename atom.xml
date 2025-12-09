@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-12-09T11:58:45.637Z</updated>
+  <updated>2025-12-09T12:05:31.256Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>玩转数码</title>
+    <link href="http://example.com/2025/12/09/digital/"/>
+    <id>http://example.com/2025/12/09/digital/</id>
+    <published>2025-12-09T12:02:07.000Z</published>
+    <updated>2025-12-09T12:05:31.256Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;数码产品早已融入日常，但多数人只用到基础功能。今天分享几个实用技巧，让手机、平板、耳机等设备发挥更大价值，解锁数码生活新姿势。&lt;/p&gt;
+&lt;p&gt;手机端的隐藏功能值得深挖。安卓用户可开启“开发者选项”，调整动画缩放比例，让系统操作更流畅；苹果用户善用快捷指令，一键实现扫码、导航</summary>
+      
+    
+    
+    
+    <category term="digital" scheme="http://example.com/categories/digital/"/>
+    
+    
+    <category term="玩转数码" scheme="http://example.com/tags/%E7%8E%A9%E8%BD%AC%E6%95%B0%E7%A0%81/"/>
+    
+  </entry>
   
   <entry>
     <title>玩转开发工具</title>
