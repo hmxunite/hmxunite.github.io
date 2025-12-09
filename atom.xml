@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-12-09T12:05:31.256Z</updated>
+  <updated>2025-12-09T12:24:55.913Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>算法学习</title>
+    <link href="http://example.com/2025/12/09/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://example.com/2025/12/09/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</id>
+    <published>2025-12-09T12:09:33.000Z</published>
+    <updated>2025-12-09T12:24:55.913Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/%E7%AE%97%E6%B3%95.jpg&quot; alt=&quot;算法&quot;&gt;&lt;/p&gt;
+&lt;p&gt;算法是编程的核心灵魂，不仅能解决实际问题，更能锻炼逻辑思维。对于新手而言，算法学习无需盲目刷题，掌握科学方法才能高效入门。&lt;/p&gt;
+&lt;p&gt;入门阶段，先夯实基础数据</summary>
+      
+    
+    
+    
+    <category term="algorithm" scheme="http://example.com/categories/algorithm/"/>
+    
+    
+    <category term="算法学习" scheme="http://example.com/tags/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>玩转数码</title>
