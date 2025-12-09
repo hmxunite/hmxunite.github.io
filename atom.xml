@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-12-09T09:31:25.142Z</updated>
+  <updated>2025-12-09T11:58:45.637Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>玩转开发工具</title>
+    <link href="http://example.com/2025/12/09/%E7%8E%A9%E8%BD%AC%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    <id>http://example.com/2025/12/09/%E7%8E%A9%E8%BD%AC%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</id>
+    <published>2025-12-09T11:55:08.000Z</published>
+    <updated>2025-12-09T11:58:45.637Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;作为开发者，选对工具、用对方法能大幅节省时间。今天分享几款高频开发工具的实战技巧，帮你摆脱重复劳作，专注核心开发。&lt;/p&gt;
+&lt;p&gt;首先是代码编辑器VS Code，其插件生态堪称强大。必装插件推荐：Prettier自动格式化代码，统一团队风格；GitLens直观显示代码提交记</summary>
+      
+    
+    
+    
+    <category term="玩转开发工具" scheme="http://example.com/categories/%E7%8E%A9%E8%BD%AC%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="玩转开发工具" scheme="http://example.com/tags/%E7%8E%A9%E8%BD%AC%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一篇博客</title>
