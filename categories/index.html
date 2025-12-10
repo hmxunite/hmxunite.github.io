@@ -41,7 +41,7 @@
   <!-- 加载特效 -->
     <script src="/js/pace.js"></script>
     <link href="/css/pace/pace-theme-flash.css" rel="stylesheet" />
-  <script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@1.9.1/dist/jquery.min.js"></script>
       var yiliaConfig = {
           fancybox: true,
           animate: true,
@@ -60,9 +60,17 @@
     <div class="overlay"></div>
 <div class="intrude-less">
     <header id="header" class="inner">
-        
-<script src="https://7.url.cn/edu/jslib/comb/require-2.1.6,jquery-1.9.1.min.js"></script>
-
+        <script src="https://cdn.jsdelivr.net/npm/requirejs@2.3.6/require.js"></script>
+<script>
+require.config({
+  paths: {
+    "jquery": "https://cdn.jsdelivr.net/npm/jquery@1.9.1/dist/jquery.min"
+  }
+});
+require(["jquery"], function($) {
+  window.$ = $;
+});
+</script>
         <a href="/" class="profilepic">
             
             <img lazy-src="/img/touxiang.jpg" class="js-avatar">
@@ -437,9 +445,17 @@
 </footer>
 
     </div>
-    
-<script src="https://7.url.cn/edu/jslib/comb/require-2.1.6,jquery-1.9.1.min.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/requirejs@2.3.6/require.js"></script>
+<script>
+require.config({
+  paths: {
+    "jquery": "https://cdn.jsdelivr.net/npm/jquery@1.9.1/dist/jquery.min"
+  }
+});
+require(["jquery"], function($) {
+  window.$ = $;
+});
+</script>
 
 <script src="/js/main.js"></script>
 
